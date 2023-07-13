@@ -1,0 +1,1805 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-expand-lg {
+    height: 70px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(107, 107, 107, 0.1);
+}
+
+img {
+    border-radius: 10px;
+}
+
+.logo {
+    width: 15%;
+}
+
+ul {
+    margin-left: 0% !important;
+}
+
+ul .nav-item {
+    padding: 0% 3%;
+}
+
+ul .nav-link {
+    font-size: 16px;
+    color: #314855;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none !important;
+}
+ 
+#s1, #s2 {
+    text-align: center;
+    position: absolute;
+    left: 8%;
+    right: 8%;
+    display: none;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.container {
+    padding: 1% 0%;
+}
+
+.class {
+    padding: 0% 8% !important;
+}
+
+#id1, #id3 {
+    width: 49.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.id2 {
+    width: 47% !important;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+}
+
+.img1 {
+    height: 296px;
+}
+
+.img2 {
+    width: 231px;
+    height: 133px;
+}
+
+.img8 {
+    height: 315px;
+}
+
+.img9 {
+    height: 340px;
+}
+
+i.fa-check-circle {
+    color: #2ecc71;
+}
+
+p {
+    margin-top: 2% !important;
+    margin-bottom: 3% !important;
+    font-size: 14px;
+}
+
+p.n {
+    font-size: 15px;
+    color: #6E7F4B;
+}
+
+p.w {
+    font-size: 15px;
+    color: #3B74A8;
+}
+
+p.f {
+    font-size: 15px;
+    color: #C46C02;
+}
+
+p.para1 {
+    color: #0F0F0F;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+p.para2 {
+    color: #0F0F0F;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+p.para3 {
+    font-size: 12px;
+    color: #7d7a7a;
+}
+
+p.para4 {
+    color: #0F0F0F;
+    font-size: 19px;
+    font-weight: 600
+}
+
+#cont1, #cont3 {
+    width: 25%;
+    display: inline-block;
+}
+
+#cont2 {
+    width: 49%;
+    display: inline-block;
+}
+
+h4 {
+    font-size: 22px !important;
+    font-weight: 500;
+}
+
+.a1 {
+    font-size: 18px; position: absolute; right: 10%;
+}
+
+.i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+    width: 115px;
+}
+
+#c1, #c2, #c3, #c4, #c5, #c6 {
+    margin-right: 1%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+#d1, #d2, #d3, #d4, #d5, #d6, #d7, #d8 {
+    padding: 0%;
+    margin-right: 1%;
+}
+
+#con1, #con2, #con3 {
+    padding: 5%;
+    height: 375px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px 0px;
+}
+
+.para5 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #59666D;
+}
+
+.para6 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    color: #59666D;
+    padding: 0% 20%;
+}
+
+.para7 {
+    margin: 0px !important;
+    font-size: 40px;
+    font-weight: 700;
+    color: #635076;
+
+}
+
+.para8 {
+    font-size: 20px;
+    color: #635076;
+}
+
+.para9 {
+    font-size: 20px;
+    color: #635076;
+    font-weight: 700;
+}
+
+.para10 {
+    font-size: 20px;
+    color: #314855;
+    opacity: 0.75;
+}
+
+.logo3 {
+    width: 85%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 5px rgba(108, 90, 126, 0.5));
+}
+
+.text-center {
+    vertical-align: middle;
+    padding: 1%;
+}
+
+#email {
+    text-align: center;
+    height: 120px;
+    width: 80%;
+    display: inline;
+}
+
+#btn1 {
+    border: 1px solid #4F7489;
+    background-color: #4F7489;
+    color: white;
+    margin-top: 8%;
+    width: 40%;
+    height: 75px;
+    border-radius: 5px;
+}
+
+.div1 {
+    width: 49%;
+    display: inline-block;
+    position: relative;
+    top: -45px;
+}
+
+#h4a {
+    font-size: 22px !important;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 3%;
+}
+
+#role1 {
+    background-color: #d2d6ff;
+    border-radius: 10px;
+    height: 424px;
+}
+
+#input1, #input2 {
+    border: 1px;
+    margin-top: 8%;
+    width: 70%;
+    height: 60px;
+    border-radius: 5px;
+
+}
+
+#input3, #input4 {
+    padding: 10px;
+    height: 55px;
+    width: 75%;
+    margin-top: 18%;
+}
+
+.div3 {
+    padding: 2% 8%;
+    height: 350px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.label1 {
+    color: #0F0F0F;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.form-check-label {
+    font-size: 15px;
+    font-weight: 500
+}
+
+.a1 {
+    font-size: 18px;
+    position: absolute;
+    right: 10%;
+}
+
+#h4b {
+    padding: 0% 5%;
+    font-size: 20px !important;
+    font-weight: 500;
+}
+
+.a2 {
+    font-size: 18px;
+    position: absolute;
+    right: 12%;
+}
+
+.div4 {
+    display: inline-block;
+    width: 69%;
+}
+
+#role3 {
+    display: inline-block;
+    width: 29%;
+    position: absolute;
+}
+
+.logo3 {
+    width: 70%;
+}
+
+#calc1, #calc2, #calc3, #calc4 {
+    width: 47%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgba(93, 181, 181, 1);
+    border-radius: 10px;
+    padding: 5%;
+    margin: 0px 5px;
+}
+
+.div2 {
+    color: #0F0F0F;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#btn2 {
+    background-color: white;
+    color: #A67AD2;
+    width: 28%;
+    height: 70px;
+    border: 0px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.image1 {
+    width: 100px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    padding: 2%;
+    width: 30% !important;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .swiper-button-next {
+    color: #162E6E;
+  }
+
+  .swiper-button-prev {
+    color: #162E6E;
+  }
+
+.logo1 {
+    width: 55%;
+    display: block;
+}
+
+.logo2 {
+    width: 55%;
+}
+
+#rm {
+    text-decoration: none;
+    color: white;
+    background-color: #C389D1;
+    padding: 4% 8%;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+#role5 {
+    width: 49.5%;
+    display: inline-block;
+    position: relative;
+    top: -55px;
+    left: 10%;
+}
+
+.vid {
+    border-radius: 10px;
+    width: 505px;
+}
+
+.video {
+    width: 207px;
+    border-radius: 10px;
+}
+
+.para16 {
+    color: #0F0F0F;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.para12 {
+    font-weight: 700;
+    font-size: 38px;
+    color: #7B603F;
+}
+
+.para13 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #7B603F;
+}
+
+.para14 {
+    font-size: 13px;
+    font-weight: 700;
+    color: #7B603F;
+}
+
+.para15 {
+    font-size: 12px;
+    font-weight: 600;
+    color: #7B603F;
+}
+
+.para17 {
+    font-size: 11px;
+    color: #7B603F;
+}
+
+.dr1, .dr2 {
+    width: 100px;
+}
+
+footer {
+    margin-top: 5%;
+}
+
+.logo4 {
+    padding: 1% 1% 4%;
+    width: 22%;
+}
+
+.f1 {
+    padding: 5%;
+    font-size: 18px;
+}
+
+#btn3 {
+    border: 1px solid #3FA6A4;
+    background-color: #3FA6A4;
+    color: white;
+    margin-top: 3%;
+    width: 35%;
+    height: 55px;
+    border-radius: 5px;
+}
+
+#icon1, #icon2, #icon3 {
+    padding: 3% 2%;
+    color: #314855;
+    font-size: 35px;
+}
+
+#f2 {
+    width: 240px;
+    border: none;
+    background-color: #D9F1FF;
+    border-bottom: 1px solid #314855;
+    font-size: 16px;
+}
+
+.para20 {
+    font-weight: 600; font-size: 16px; color: #314855;
+}
+
+.para22 {
+    font-weight: 500; font-size: 18px; color: #314855;
+}
+
+.para21 {
+    font-weight: 700; font-size: 18px; color: #314855;
+}
+
+
+
+
+@media (min-width: 1200px) {
+    ul .nav-item {
+        padding: 0% 2%;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 110px;
+    }    
+
+    #s1, #s2 {
+        position: absolute;
+        left: 2%;
+        right: 2%;
+    }
+
+    .text-center {
+        max-width: 100%;
+    }
+
+    .p1 {
+        font-size: 13px;
+    }
+
+    .img1 {
+        height: 262px;
+    }
+
+    .img2 {
+        width: 210px;
+        height: 120px;
+    }
+    
+    p.para2 {
+        font-size: 15px;
+    }
+
+    .img8 {
+        height: 280px;
+    }
+
+    #con1, #con2, #con3 {
+        height: 350px;
+    }
+
+    #email {
+        height: 100px;
+    }
+
+    #btn1 {
+        height: 60px;
+    }
+
+    .div1 {
+        top: -33px;
+    }
+
+    #role1 {
+        height: 396px;
+    }
+
+    #input1, #input2 {
+        margin-top: 6%;
+        height: 55px;
+    }
+
+    #input3, #input4 {
+        height: 48px;
+    }
+
+    h4 {
+        padding: 0% 1%;
+    }
+
+    .a4 {
+        position: absolute;
+        right: 14%;
+    }
+
+    .div2 {
+        color: #0F0F0F;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .img9 {
+        height: 382px;
+    }
+
+    .swiper-slide img {
+        height: 150px;
+    }
+
+    .f1 {
+        padding: 6% 4%;
+        font-size: 17px;
+    }
+
+    #role3 {
+        width: 28%;
+    }
+
+    .logo3 {
+        width: 65%;
+    }
+
+    .div4 {
+        padding: 1% 3%;
+    }
+
+    .a1 {
+        position: absolute;
+        right: 14%;
+    }
+}
+
+@media (min-width: 1178px) and (max-width:1199px) {
+    ul .nav-item {
+        padding: 0% 1.5%;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 110px;
+    }    
+
+    #s1, #s2 {
+        position: absolute;
+        left: 2%;
+        right: 2%;
+    }
+
+    .p1 {
+        font-size: 13px;
+    }
+
+    .img1 {
+        height: 262px;
+    }
+
+    .img2 {
+        width: 210px;
+        height: 120px;
+    }
+    
+    p.para2 {
+        font-size: 15px;
+    }
+
+    .img8 {
+        height: 275px;
+    }
+    
+    #con1, #con2, #con3 {
+        height: 350px;
+    }
+
+    #email {
+        height: 100px;
+    }
+
+    #btn1 {
+        height: 60px;
+    }
+
+    .div1 {
+        top: -26px;
+    }
+
+    #role1 {
+        height: 385px;
+    }
+
+    #input1, #input2 {
+        margin-top: 6%;
+        height: 55px;
+    }
+
+    #input3, #input4 {
+        height: 48px;
+    }
+
+    .div2 {
+        color: #0F0F0F;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .div4 {
+        display: inline-block;
+        padding: 2% 3%;
+    }
+
+    #role3 {
+        width: 29%; display: inline-block;
+    }
+
+    .logo3 {
+        width: 62%;
+    }
+
+    .img9 {
+        height: 382px;
+    }
+
+
+    .swiper-slide img {
+        height: 150px;
+    }
+
+    .vid {
+        width: 480px;
+    }
+
+    .video {
+        width: 195px;
+    }
+
+    .logo4 {
+        width: 20%;
+    }
+
+    .f1 {
+        font-size: 15px;
+    }
+
+    #btn3 {
+        margin-top: 2%;
+        width: 30%;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .para20 {
+        font-size: 15px;
+    }
+
+    .para21 {
+        font-size: 16px;
+    }
+
+    .para22 {
+        font-size: 16px;
+    }
+
+    #f2 {
+        width: 210px;
+        font-size: 14px;
+    }
+
+    #icon1, #icon2, #icon3 {
+        padding: 2% 2%;
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 1136px) and (max-width: 1177px) {
+    ul .nav-item {
+        padding: 0% 1.5%;
+    }
+
+    ul .nav-link {
+        font-size: 15px
+    }
+
+    .para1 {
+        font-size: 21px;
+    }
+
+    .img1 {
+        height: 245px;
+    }
+
+    .img2 {
+        width: 208px;
+        height: 115px;
+    }
+
+    p.w, p.f {
+        font-size: 14px;
+    }
+
+    p.para1 {
+        font-size: 21px;
+    }
+
+    p.para2 {
+        font-size: 14px;
+    }
+
+    h4 {
+        font-size: 20px !important;
+        padding: 0% 1%;
+    }
+
+    .a1 {
+        font-size: 16px;
+    }
+
+    p.para3 {
+        font-size: 11px;
+    }
+
+    .img8 {
+        height: 270px;
+    }
+
+    .para5 {
+        font-size: 40px;
+    }
+
+    .para6 {
+        font-size: 18px;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 6% 5%;
+        height: 330px;
+    }
+    
+    #email {
+        height: 90px;
+    }
+
+    #btn1 {
+        height: 55px;
+    }
+
+    .div2 {
+        font-size: 14px;
+    }
+
+    #h4a {
+        font-size: 20px !important;
+    }
+
+    .image1 {
+        width: 85px;
+    }
+
+    .label1 {
+        font-size: 15px;
+    }
+
+    #input1, #input2 {
+        margin-top: 5%;
+        height: 40px;
+        width: 90%;
+    }
+
+    #input3, #input4 {
+        height: 42px;
+    }
+
+    .form-check-label {
+        font-size: 14px;
+    }
+
+    .div1 {
+        top: -7px;
+    }
+
+    #role1 {
+        height: 355px;
+    }
+
+    .div4 {
+        padding: 0% 3%;
+    }
+
+    #btn2 {
+        width: 18%;
+        height: 50px;
+    }
+
+    .para7 {
+        font-size: 35px;
+    }
+
+    .para8 {
+        font-size: 18px;
+    }
+
+    .para9 {
+        font-size: 18px;
+    }
+
+    a.a2 {
+        font-size: 17px;
+    }
+
+    #role3 {
+        position: absolute;
+        right: 10%;
+    }
+
+    .logo3 {
+        width: 60%;
+    }
+
+    .img9 {
+        height: 290px;
+    }
+
+    .logo1, .logo2 {
+        width: 52%;
+    }
+
+    .para10 {
+        font-size: 18px;
+    }
+
+    #rm {
+        padding: 4% 6%;
+    }
+
+    .vid {
+        width: 480px;
+    }
+
+    .video {
+        width: 195px;
+    }
+
+    .para12 {
+        font-size: 35px;
+    }
+
+    .para13 {
+        font-size: 14px;
+    }
+
+    .dr1, .dr2 {
+        width: 85px;
+    }
+
+    .logo4 {
+        width: 20%;
+    }
+
+    .para20 {
+        font: 14px;
+    }
+
+    .f1 {
+        padding: 5% 0%;
+        font-size: 15px;
+    }
+
+    #btn3 {
+        margin-top: 2%;
+        width: 28%;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    .para20 {
+        font-size: 15px
+    }
+
+    .para21 {
+        font-size: 16px;
+    }
+
+    #icon1, #icon2, #icon3 {
+        padding: 2% 2%;
+        font-size: 26px;
+    }
+
+    .para22 {
+        font-size: 16px;
+    }
+
+    #f2 {
+        font-size: 14px;
+        width: 210px;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1135px) {
+    ul .nav-item {
+        padding: 0% 1.5%;
+    }
+
+    ul .nav-link {
+        font-size: 15px;
+    }
+
+    #s1, #s2 {
+        position: absolute;
+        left: 7%;
+        right: 7%;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 108px;
+    }
+
+    #id1, #id3 {
+        width: 47%;
+    }
+
+    .img1 {
+        height: 258px;
+    }
+
+    p.para1 {
+        font-size: 20px;
+    }
+
+    p.para3 {
+        font-size: 10px;
+    }
+
+    p.w, p.n, p.f {
+        font-size: 15px;
+    }
+
+    .id2 {
+        width: 48% !important;
+    }
+
+    p.para2 {
+        font-size: 14px;
+    }
+
+    .img2 {
+        width: 180px;
+        height: 110px;
+    }
+
+    h4 {
+        padding: 0% 1%;
+        font-size: 20px !important;
+    }
+
+    .a1 {
+        font-size: 16px;
+        right: 11%;
+    }
+
+    .img8 {
+        height: 265px;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 7% 5%;
+        height: 355px;
+    }
+
+    .para5 {
+        font-size: 38px;
+    }
+
+    .para6 {
+        padding: 2% 20%;
+        font-size: 18px;
+    }
+
+    #email {
+        height: 105px;
+        width: 75%;
+    }
+
+    #btn1 {
+        width: 32%;
+        height: 65px;
+    }
+
+    #h4a {
+        font-size: 20px !important;
+    }
+
+    #calc1, #calc2, #calc3, #calc4 {
+        padding: 5% 1%;
+    }
+
+    #input1, #input2 {
+        width: 65%;
+        height: 50px;
+    }
+
+    #input3, #input4 {
+        height: 42px;
+    }
+
+    .div1 {
+        top: -36px;
+    }
+
+    #role1 {
+        height: 390px;
+    }
+
+    .label1 {
+        font-size: 15px;
+    }
+
+    .form-check-label {
+        font-size: 14px;
+    }
+
+    #h4a, #h4b {
+        font-size: 18px !important;
+    }
+
+    .a2 {
+        font-size: 16px;
+    }
+
+    .div4 {
+        padding: 0% 2%;
+    }
+
+    .para7 {
+        font-size: 36px;
+    }
+
+    #btn2 {
+        width: 25%;
+        height: 60px;
+    }
+
+    #role3 {
+        width: 25%;
+    }
+
+    .logo3 {
+        width: 75%;
+    }
+
+    .img9 {
+        height: 312px;
+    }
+
+    #role5 {
+        top: -70px;
+        left: 10%;
+    }
+
+    .logo1, .logo2 {
+        width: 52%;
+    }
+
+    .vid {
+        width: 455px;
+    }
+
+    .video {
+        width: 180px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1099px) {
+    ul .nav-item {
+        padding: 0% 1%;
+    }
+
+    ul .nav-link {
+        font-size: 14px;
+    }
+
+    .pd-0 {
+        padding: 0% !important;
+    }
+
+    #s1, #s2 {
+        left: 3%;
+        right: 3%;
+    }
+
+    p.p1 {
+        font-size: 13px;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 105px;
+    }
+
+    .img1 {
+        height: 270px;
+    }
+
+    p.para1 {
+        font-size: 20px;
+    }
+
+    .img2 {
+        width: 100%;
+        height: 100px;
+    }
+
+    p.para2 {
+        font-size: 14px;
+    }
+
+    p.para3 {
+        font-size: 11px;
+    }
+
+    h4 {
+        font-size: 20px !important;
+    }
+
+    .a1 {
+        font-size: 16px;
+        right: 11%;
+    }
+
+    #cont1, #cont3 {
+        width: 24%;
+    }
+
+    #cont2 {
+        width: 50%;
+    }
+
+    .img8 {
+        height: 282px;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 7% 5% 5%;
+        height: 345px;
+    }
+
+    .para5 {
+        font-size: 35px;
+    }
+
+    .para6 {
+        font-size: 18px;
+    }
+
+    #email {
+        width: 95%;
+        height: 105px;
+    }
+
+    #btn1 {
+        width: 45%;
+        height: 70px;
+    }
+
+    .div1 {
+        top: -28px;
+    }
+
+    .div3 {
+        padding: 5% 8%;
+    }
+
+    #role1 {
+        height: 375px;
+    }
+
+    #calc1, #calc2, #calc3, #calc4 {
+        width: 45%;
+        padding: 5% 0%;
+    }
+
+    .label1 {
+        font-size: 14px;
+    }
+
+    #input1, #input2 {
+        margin-top: 5%;
+        width: 65%;
+        height: 45px;
+    }
+
+    #input3, #input4 {
+        width: 75%;
+        height: 38px;
+        margin-top: 12%;
+    }
+
+    .form-check-label {
+        font-size: 12px;
+    }
+
+    #h4a {
+        font-size: 20px !important;
+    }
+
+    #h4b {
+        padding: 0% 7%;
+        font-size: 18px !important;
+    }
+
+    .a2 {
+        font-size: 16px;
+        right: 13%;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 7% 5% 5%;
+        height: 340px;
+    }
+
+    .para7 {
+        font-size: 35px;
+    }
+
+    .para8, .para9 {
+        font-size: 18px;
+    }
+
+    #btn2 {
+        width: 20%;
+        height: 50px;
+    }
+
+    #role3 {
+        width: 25%;
+    }
+
+    .logo3 {
+        width: 72%;
+    }
+
+    .img9 {
+        height: 302px;
+    }
+
+    #role5 {
+        top: -88px;
+        left: 7%;
+    }
+
+    .para10 {
+        font-size: 18px;
+    }
+
+    .vid {
+        width: 430px;
+    }
+
+    .video {
+        width: 168px;
+    }
+
+
+    .para12 {
+        font-size: 35px;
+    }
+
+    .dr1, .dr2 {
+        width: 95px;
+    }
+
+    .f1 {
+        padding: 5% 0%;
+        font-size: 15px;
+    }
+
+    .para20 {
+        font-size: 15px;
+    }
+
+    #btn3 {
+        margin-top: 3%;
+        width: 32%;
+        height: 45px;
+    }
+
+    .para21, .para22 {
+        font-size: 17px;
+    }
+
+    #icon1, #icon2, #icon3 {
+        font-size: 25px;
+    }
+
+    #f2 {
+        width: 225px;
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 1002px) and (max-width: 1024px) {
+    ul .nav-item {
+        padding: 0% 1%;
+    }
+
+    ul .nav-link {
+        font-size: 14px;
+    }
+
+    .pd-0 {
+        padding: 0% !important;
+    }
+
+    #s1, #s2 {
+        left: 3%;
+        right: 3%;
+    }
+
+    p.p1 {
+        font-size: 13px;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 105px;
+    }
+
+    .img1 {
+        height: 270px;
+    }
+
+    p.para1 {
+        font-size: 20px;
+    }
+
+    .img2 {
+        width: 100%;
+        height: 100px;
+    }
+
+    p.para2 {
+        font-size: 14px;
+    }
+
+    p.para3 {
+        font-size: 11px;
+    }
+
+    h4 {
+        font-size: 20px !important;
+    }
+
+    .a1 {
+        font-size: 16px;
+        right: 11%;
+    }
+
+    #cont1, #cont3 {
+        width: 24%;
+    }
+
+    #cont2 {
+        width: 50%;
+    }
+
+    .img8 {
+        height: 282px;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 7% 5% 5%;
+        height: 345px;
+    }
+
+    .para5 {
+        font-size: 35px;
+    }
+
+    .para6 {
+        font-size: 18px;
+    }
+
+    #email {
+        width: 95%;
+        height: 105px;
+    }
+
+    #btn1 {
+        width: 45%;
+        height: 70px;
+    }
+
+    .div1 {
+        top: -28px;
+    }
+
+    .div3 {
+        padding: 5% 8%;
+    }
+
+    #role1 {
+        height: 375px;
+    }
+
+    #calc1, #calc2, #calc3, #calc4 {
+        width: 45%;
+        padding: 5% 0%;
+    }
+
+    .label1 {
+        font-size: 14px;
+    }
+
+    #input1, #input2 {
+        margin-top: 5%;
+        width: 65%;
+        height: 45px;
+    }
+
+    #input3, #input4 {
+        width: 75%;
+        height: 38px;
+        margin-top: 12%;
+    }
+
+    .form-check-label {
+        font-size: 12px;
+    }
+
+    #h4a {
+        font-size: 20px !important;
+    }
+
+    #h4b {
+        padding: 0% 7%;
+        font-size: 18px !important;
+    }
+
+    .a2 {
+        font-size: 16px;
+        right: 13%;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 7% 5% 5%;
+        height: 340px;
+    }
+
+    .para7 {
+        font-size: 35px;
+    }
+
+    .para8, .para9 {
+        font-size: 18px;
+    }
+
+    #btn2 {
+        width: 20%;
+        height: 50px;
+    }
+
+    #role3 {
+        width: 25%;
+    }
+
+    .logo3 {
+        width: 72%;
+    }
+
+    .img9 {
+        height: 302px;
+    }
+
+    #role5 {
+        top: -88px;
+        left: 7%;
+    }
+
+    .para10 {
+        font-size: 18px;
+    }
+
+    .vid {
+        width: 430px;
+    }
+
+    .video {
+        width: 168px;
+    }
+
+
+    .para12 {
+        font-size: 35px;
+    }
+
+    .dr1, .dr2 {
+        width: 95px;
+    }
+
+    .f1 {
+        padding: 5% 0%;
+        font-size: 15px;
+    }
+
+    .para20 {
+        font-size: 15px;
+    }
+
+    #btn3 {
+        margin-top: 3%;
+        width: 32%;
+        height: 45px;
+    }
+
+    .para21, .para22 {
+        font-size: 17px;
+    }
+
+    #icon1, #icon2, #icon3 {
+        font-size: 25px;
+    }
+
+    #f2 {
+        width: 225px;
+        font-size: 15px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1001px) {
+    ul .nav-item {
+        padding: 0% 1%;
+    }
+
+    ul .nav-link {
+        font-size: 14px;
+    }
+
+    #s1, #s2 {
+        left: 1%;
+        right: 1%;
+    }
+
+    p.p1 {
+        font-size: 13px;
+    }
+
+    .i1, .i2, .i3, .i4, .i5, .i6, .i7, .i8, .i9 {
+        width: 105px;
+    }
+
+    .pd-0 {
+        padding: 0% !important;
+    }
+
+    .img1 {
+        height: 306px;
+        width: 400px;
+    }
+
+    p.w, p.f, p.n {
+        font-size: 14px;
+    }
+
+    p.para1 {
+        font-size: 20px;
+    }
+
+    .img2 {
+        width: 170px;
+        height: 105px;
+    }
+
+    p.para2 {
+        font-size: 14px;
+    }
+
+    #cont2 {
+        width: 48%;
+    }
+
+    .img8 {
+        height: 290px;
+    }
+
+    h4 {
+        font-size: 20px !important;
+    }
+
+    .a1 {
+        font-size: 16px;
+        right: 11%;
+    }
+
+    #con1, #con2, #con3 {
+        padding: 8% 5% 5%;
+        height: 355px;
+    }
+
+    .para5 {
+        font-size: 38px;
+    }
+
+    .para6 {
+        font-size: 18px;
+    }
+
+    #email {
+        height: 102px;
+        width: 85%;
+    }
+
+    #btn1 {
+        width: 40%;
+        height: 60px;
+    }
+
+    .div1 {
+        top: -53px;
+    }
+
+    #h4a {
+        font-size: 18px !important;
+    }
+
+    #role1 {
+        height: 360px;
+    }
+
+    .div3 {
+        padding: 4% 8%;
+        height: 275px;
+    }
+
+    .label1 {
+        font-size: 13px;
+    }
+
+    #input1, #input2 {
+        margin-top: 5%;
+        width: 65%;
+        height: 45px;
+    }
+
+    #input3, #input4 {
+        padding: 10px;
+        height: 38px;
+        width: 75%;
+        margin-top: 18%;
+    }
+
+    .form-check-label {
+        font-size: 13px;
+    }
+
+    #h4b {
+        font-size: 18px !important;
+    }
+
+    .a2 {
+        font-size: 16px;
+        right: 13%;
+    }
+
+    #calc1, #calc2, #calc3, #calc4 {
+        padding: 5% 0%;
+        width: 46%;
+    }
+
+    .div2 {
+        font-size: 14px;
+    }
+
+    .image1 {
+        width: 95px;
+    }
+
+    .div4 {
+        padding: 2%;
+    }
+
+    .para7 {
+        font-size: 32%;
+    }
+
+    .para8 {
+        font-size: 18px;
+    }
+
+    .para9 {
+        font-size: 18px;
+    }
+
+    #btn2 {
+        width: 20%;
+        height: 55px;
+    }
+}
+
+@media (min-width: 450px) {
+}
